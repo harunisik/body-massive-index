@@ -1,5 +1,7 @@
 # code-20220907-harunisik
 
+## Body Massive Index calculator
+
 In the project directory, you can run:
 
 ### `npm install`
